@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Old Castle",
+    "category": "Heritage",
+    "rating": 4.7,
+    "images": ["/images/castle1.jpg", "/images/castle2.jpg"],
+    "description": "A medieval castle with beautiful surroundings."
+  },
+  {
+    "id": 2,
+    "name": "Sunset Beach",
+    "category": "Nature",
+    "rating": 4.5,
+    "images": ["/images/beach1.jpg", "/images/beach2.jpg"],
+    "description": "Perfect spot for sunsets and relaxation."
+  },
+  {
+    "id": 3,
+    "name": "Tasty Bites",
+    "category": "Food",
+    "rating": 4.2,
+    "images": ["/images/food1.jpg", "/images/food2.jpg"],
+    "description": "A local restaurant famous for street-style cuisine."
+  }
+]
