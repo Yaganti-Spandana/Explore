@@ -44,6 +44,10 @@ src/ ├── assets/
 - *React Router* (optional if adding routing later)
 
 ---
+# OUTPUT SCREEN SHOTS:
+![Screenshot 2025-06-25 100920](https://github.com/user-attachments/assets/1a0e8065-46be-42ca-a939-5bd668acecd7)
+![Screenshot 2025-06-25 100941](https://github.com/user-attachments/assets/a4022fec-6881-4e5a-8591-2e9db65b9544)
+![Screenshot 2025-06-25 100956](https://github.com/user-attachments/assets/2634410e-8e3e-4e5f-8992-ef4c66ad5fe6)
 
 ## 📦 Installation
 
@@ -118,10 +122,6 @@ Designed mobile-first using Bootstrap grid and utility classes. Cards, carousels
 
 
 ---
-# OUTPUT SCREEN SHOTS:
-![Screenshot 2025-06-25 100920](https://github.com/user-attachments/assets/1a0e8065-46be-42ca-a939-5bd668acecd7)
-![Screenshot 2025-06-25 100941](https://github.com/user-attachments/assets/a4022fec-6881-4e5a-8591-2e9db65b9544)
-![Screenshot 2025-06-25 100956](https://github.com/user-attachments/assets/2634410e-8e3e-4e5f-8992-ef4c66ad5fe6)
 
 🧪 Future Improvements
 
