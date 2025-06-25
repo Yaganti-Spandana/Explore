@@ -11,7 +11,7 @@ A responsive single-page tourism app to help users explore landmarks, dining spo
 - 📌 *Sticky Header*: Navigation always stays visible at the top of the page.
 - ⬆️ *Scroll-to-Top Button*: Smooth scroll to the top with one click.
 - 📱 *Responsive Design*: Works well on mobile, tablet, and desktop.
-- 🌐 *Live Deployment: Deployed with [https://github.com/dashboard] 
+- 🌐 *Live Deployment: Deployed with netflify:(https://spandanatravel.netlify.app/)
 
 ---
 
