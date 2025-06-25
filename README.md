@@ -11,15 +11,15 @@ A responsive single-page tourism app to help users explore landmarks, dining spo
 - 📌 *Sticky Header*: Navigation always stays visible at the top of the page.
 - ⬆️ *Scroll-to-Top Button*: Smooth scroll to the top with one click.
 - 📱 *Responsive Design*: Works well on mobile, tablet, and desktop.
-- 🌐 *Live Deployment: Deployed with [Vercel/Netlify/GitHub Pages] *(update with your live link).
+- 🌐 *Live Deployment: Deployed with [https://github.com/dashboard] 
 
 ---
 
 ## 📁 Project Structure
 
 src/ ├── assets/              
-# Images and icons ├── components/          
-# Reusable components 
+#Images and icons ├── components/          
+#Reusable components 
 │   ├── Header.jsx 
 │   ├── FilterBar.jsx 
 │   ├── PlaceCard.jsx 
@@ -28,10 +28,10 @@ src/ ├── assets/
 │   ├── ScrollToTop.jsx 
 │   └── CategoryTabs.jsx 
 ├── data/                
-# JSON mock data │   └── places.json ├── App.jsx              
-# Main app logic and layout ├── index.js             
-# Entry point └── styles/              
-# CSS or SCSS styles
+#JSON mock data │   └── places.json ├── App.jsx              
+#Main app logic and layout ├── index.js             
+#Entry point └── styles/              
+#CSS or SCSS styles
 
 ---
 
@@ -52,8 +52,8 @@ src/ ├── assets/
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/destination-explorer.git
-cd destination-explorer
+git clone (https://github.com/Yaganti-Spandana/Explore.git)
+cd Explore
 npm install
 npm run dev  # or npm start for CRA
 
@@ -135,6 +135,8 @@ User login & favorites feature
 
 ---
 
-📍 Live Demo
+👉 View Live App   https://spandanatravel.netlify.app/
 
-👉 View Live App
+
+Made by YAGANTI.SPANDANA
+[https://github.com/dashboard]
